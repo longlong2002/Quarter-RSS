@@ -48,13 +48,13 @@ Make sure you download from here and not the other RSS versions. There are addit
 It has been figured out by many people the 2.5x scale is the proper scale for KSP. With the way the engines and masses are configured, "realistically" sized rockets would exist in a 2.5x stock scale. Thus I present you with Quarter Size RSS.
 
 These mods are highly recommended as their sizes work perfectly with a 2.5x scale of stock. You should not need to make any adjustments to the values of any of the parts to be able to get them to function exactly how you want them to.
-* Bluedog Design Bureau
-* Tantares / Tantares LV
+* Bluedog Design Bureau: http://forum.kerbalspaceprogram.com/index.php?/topic/122020-122-bluedog-design-bureau-stockalike-saturn-apollo-and-more-v11-razved-24feb2017/
+* Tantares / Tantares LV: http://forum.kerbalspaceprogram.com/index.php?/topic/73686-122-tantares-stockalike-soyuz-and-mir-4029042017tks/&page=4
 
 These are my other mods, so I will always reccomend them as well:
-* Historical Progression Tech Tree
-* Contract Pack: Historical Progression
-* Contract Pack: Career Evolution (BETA)
+* Historical Progression Tech Tree: http://forum.kerbalspaceprogram.com/index.php?/topic/144295-122-historical-progression-tech-tree-v20-updated-02-22-2017/&
+* Contract Pack: Historical Progression: http://forum.kerbalspaceprogram.com/index.php?/topic/143397-122-contract-pack-historical-progression-v15-4242017/
+* Contract Pack: Career Evolution (BETA): http://forum.kerbalspaceprogram.com/index.php?/topic/157417-wip-122-career-evolution-contract-pack-beta-release-v03-updated-3-27-2017/&
 
 ## CHANGELOG
 
